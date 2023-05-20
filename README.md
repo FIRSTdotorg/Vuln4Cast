@@ -1,6 +1,6 @@
 # Vuln4Cast
 
-## What is this repository all about
+## What is this repository all about?
 This repository holds the code that uses NVD data to demonstrate that it is possible to forecast vulnerabilities with reasonable accuracy both quarterly and yearly. We believe this is foundational rather than an end result. In other words, this forecasting will enable other research to be performed that might not have existed before. We encourage you to make more accurate forecasts, or extend the lookahead window, or make sub-forecasts for specific vendors.
 
 ## Quickstart
