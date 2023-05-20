@@ -1,0 +1,10 @@
+hurst==0.0.5
+jq==1.4.1
+matplotlib==3.7.1
+numpy==1.24.1
+pandas==1.5.3
+python_dateutil==2.8.2
+Requests==2.30.0
+scikit_learn==1.2.2
+statsmodels==0.14.0
+tqdm==4.65.0
