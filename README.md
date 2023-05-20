@@ -15,6 +15,8 @@ pip install -r requirements.txt
 
 Before running the analysis, you will need to run the code to fetch NVD data, see `NVDDataFetch-V1.ipynb`. This builds directory structures, fetches data from NVD (and CVE), and unpacks that data into formats that are easier to work with. This will take a few minutes depending on your network.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FIRSTdotorg/Vuln4Cast/HEAD?labpath=https%3A%2F%2Fgithub.com%2FFIRSTdotorg%2FVuln4Cast%2Fblob%2Fmain%2FNVDDataFetch-V1.ipynb)
+
 ## Analysis
 
 Once the data has been fetched, you can run either the quarterly or yearly forecasts. They each use a Sarimax model that gives good results, and we consider as a benchmark for your own research to beat. They also contain a hurst exponent analysis that should demonstrate that it is both possible to forecast, and there is long term trending in the data. Other graphs help demonstrate features useful to forecasters who will wish to extend or improve the work.
