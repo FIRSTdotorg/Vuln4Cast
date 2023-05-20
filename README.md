@@ -15,7 +15,8 @@ pip install -r requirements.txt
 
 Before running the analysis, you will need to run the code to fetch NVD data, see `NVDDataFetch-V1.ipynb`. This builds directory structures, fetches data from NVD (and CVE), and unpacks that data into formats that are easier to work with. This will take a few minutes depending on your network.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FIRSTdotorg/Vuln4Cast/222d31124b257f0f77ce94d22d2f8ee6caf094ac?labpath=https%3A%2F%2Fgithub.com%2FFIRSTdotorg%2FVuln4Cast%2Fblob%2Fmain%2FNVDDataFetch-V1.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/FIRSTdotorg/Vuln4Cast/222d31124b257f0f77ce94d22d2f8ee6caf094ac
 
 ## Analysis
 
