@@ -52,4 +52,4 @@ keywords = {Cyberrisk, forecasting, prediction, CVE, vulnerabilities, vulnerabil
 
 ## To cite this codebase if you use it for your own paper
 
-Leverett, É; Rhode, M; Burns, E; Manion, A (2023) Vuln4Cast source code (Version 1.0) [Source code]. https://github.com/FIRSTdotorg/Vuln4Cast/
+Leverett, É; Rhode, M; Burns, E; Manion, A (2023) Vuln4Cast source code (Version 1.0.0) [Source code]. https://github.com/FIRSTdotorg/Vuln4Cast/
