@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Éireann"
+  given-names: "Leverett"
+  orcid: "https://orcid.org/0000-0001-6586-7359"
+- family-names: "Matilda"
+  given-names: "Rhode"
+- family-names: "Erin"
+  given-names: "Burns"
+ - family-names: "Art"
+  given-names: "Manion"
+  
+title: "Vuln4Cast"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-05-20
+url: "https://github.com/FIRSTdotorg/Vuln4Cast/releases"
