@@ -28,6 +28,8 @@ If all of this interests you, we encourage you to get in touch, and help us buil
 
 ## To cite the original paper
 
+See the PAPERCITATION.bib file or:
+
 Éireann Leverett, Matilda Rhode, and Adam Wedgbury. 2022. Vulnerability Forecasting: Theory and Practice. Digital Threats 3, 4, Article 42 (mar2022), 27 pages. https://doi.org/10.1145/3492328
 
 ## To cite this codebase if you use it for your own paper
