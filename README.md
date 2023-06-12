@@ -22,9 +22,9 @@ Before running the analysis, you will need to run the code to fetch NVD data, se
 
 ## Analysis
 
-Once the data has been fetched, you can run either the quarterly or yearly forecasts. They each use a Sarimax model that gives good results, and we consider as a benchmark for your own research to beat. They also contain a hurst exponent analysis that should demonstrate that it is both possible to forecast, and there is long term trending in the data. Other graphs help demonstrate features useful to forecasters who will wish to extend or improve the work.
+Once the data has been fetched, you can run either the quarterly or yearly forecasts, e.g. `YearlyVuln4Cast-V1.ipynb`. They each use a Sarimax model that gives good results, and we consider as a benchmark for your own research to beat. They also contain a hurst exponent analysis that should demonstrate that it is both possible to forecast, and there is long term trending in the data. Other graphs help demonstrate features useful to forecasters who will wish to extend or improve the work.
 
-If all of this interests you, we encourage you to get in touch, and help us build a community dedicated to prediction and forecasting of vulnerabilities. We believe we are part of a wider movement of cyber risk quantification that includes our allies like [EPSS](https://github.com/FIRSTdotorg/epss). They predict exploitation of CVEs rather than CVE volumes. We honestly foresee a world in which these techniques become combined and and even perhaps the economic damage of explotation can be predicted as well.
+If all of this interests you, we encourage you to get in touch, and help us build a community dedicated to prediction and forecasting of vulnerabilities. We believe we are part of a wider movement of cyber risk quantification that includes our allies like [EPSS](https://github.com/FIRSTdotorg/epss). They predict exploitation of CVEs rather than CVE volumes. We honestly foresee a world in which these techniques become combined and even perhaps the economic damage of explotation can be predicted as well.
 
 ## To cite the original paper
 
